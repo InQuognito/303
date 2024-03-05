@@ -1,0 +1,1 @@
+In order to modify the output, you must change the values in the main() function in either main.cpp (for the vector code) or stack.cpp (for the stack code). There are several examples demonstrating the required functionalities.
